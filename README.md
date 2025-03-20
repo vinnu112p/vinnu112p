@@ -52,7 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vinnu112p/vinnu112p/output/snake.svg" alt="Snake animation" />
 
 ###
 
