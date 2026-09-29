@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161616,100:000000&height=140&section=header&text=VINAYAK%20PATEL&fontSize=46&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=CS%20student%20%C2%B7%20full%20stack%20builder%20%C2%B7%20problem%20solver&descSize=15&descColor=8b949e&descAlignY=66" width="100%"/>
-
 <!-- ─────────── HERO: ASCII portrait + details (built by build_hero.py) ─────────── -->
 <p align="center">
   <img alt="Vinayak Patel — vinnu112p" src="hero.svg" width="100%" />
@@ -18,97 +16,93 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=E6EDF3&center=true&vCenter=true&width=700&lines=Java+%26+Python+%2B+Full+Stack+JavaScript;Third-year+CSE+student+%40+Parul+University;I+build+things+that+move+%E2%80%94+premium+UI%2C+cinematic+motion;Competitive+programmer+%7C+Two-time+hackathon+winner;Open+to+internships+%26+collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=E6EDF3&center=true&vCenter=true&width=700&lines=Java+%26+Python+%2B+Full+Stack+JavaScript;Third-year+CSE+student+%40+Parul+University;Crafting+web+interfaces+that+feel+alive;Competitive+programmer+%7C+Frontend+craftsman;Open+to+internships+%26+collaboration" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelvinnu.112@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayakpatell)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Patelvinnu112)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinnuuuu_35)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918160127620)
-[![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/vinnu112p)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white&borderColor=30363d)](mailto:patelvinnu.112@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=30363d)](https://www.linkedin.com/in/vinayakpatell)
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white&borderColor=30363d)](https://x.com/Patelvinnu112)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white&borderColor=30363d)](https://www.instagram.com/vinnuuuu_35)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=white&borderColor=30363d)](https://wa.me/918160127620)
+[![Codolio](https://img.shields.io/badge/Codolio-0d1117?style=for-the-badge&logo=codeforces&logoColor=white&borderColor=30363d)](https://codolio.com/profile/vinnu112p)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:3a3a3a,100:000000&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%"/>
 
 <h2 align="center">[ 01 ] &nbsp;ABOUT</h2>
 
-> I like sites that feel alive: smooth scroll, layered depth, clean structure underneath. Still a student, so every project below is a rep toward getting better.
+> I'm drawn to websites that feel alive — fluid motion, subtle depth, and intentional micro-interactions that make software a joy to touch. While I don't claim to be a formal designer, I care deeply about how an interface feels the moment someone clicks, scrolls, or transitions between states.
+> 
+> To me, robust engineering and visual craftsmanship aren't separate worlds — they belong together. Every project below is a rep toward mastering that balance and building software that respects both function and feel.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:3a3a3a,100:000000&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%"/>
 
-<h2 align="center">[ 02 ] &nbsp;PROJECTS</h2>
+<h2 align="center">[ 02 ] &nbsp;FEATURED PROJECTS</h2>
 
-<table>
+<!-- ROW 1: Featured Live Portfolio Mockup Window -->
+<p align="center">
+  <a href="https://vinayak-studio.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="portfolio_window.svg" alt="Vinayak Patel — Cinematic Portfolio Live Window" width="100%" />
+  </a>
+</p>
+
+<!-- ROW 2: NexHR, GoalFlow, AlgoPush in 3-Column Layout -->
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33.3%" valign="top">
 
-### 🧑‍💼 NexHR
-**HR management platform**
+### <img src="https://api.iconify.design/lucide:briefcase.svg?color=%23ffffff" width="18" height="18" align="center"/> NexHR
+**Enterprise HR Platform**
 
-My top repo. Employee and HR workflows in one place.
+Unified workflow platform consolidating employee lifecycle, multi-role dashboards, attendance, and leave management.
 
-- Full stack build
-- Clean dashboard UI
+- Full-stack production build
+- Modular role-based UI
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
 
-[**Repo →**](https://github.com/vinnu112p/NexHR)
+[**Live Demo ↗**](https://nexhr-platform.vercel.app/) &nbsp;•&nbsp; [**Repo ↗**](https://github.com/vinnu112p/NexHR)
 
 </td>
-<td width="50%" valign="top">
+<td width="33.3%" valign="top">
 
-### 🎯 GoalFlow
-**Role-based goal management**
+### <img src="https://api.iconify.design/lucide:target.svg?color=%23ffffff" width="18" height="18" align="center"/> GoalFlow
+**Role-Based Goal Tracker**
 
-Goal tracking where admins, managers and members each see their own view. Deployed and live.
+Granular goal management system with isolated dashboards and permissions tailored for Admins, Managers, and Members.
 
-- Role-based dashboards and permissions
-- Upgrade roadmap in progress
+- Granular role permissioning
+- Real-time progress updates
 
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-[**Repo →**](https://github.com/vinnu112p/GoalFlow)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Portfolio
-**Cinematic gaming portfolio**
-
-Personal site told as a two-act story instead of a list of sections.
-
-- Scroll-driven scenes and motion
-- Built for feel first
-
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-000000?style=flat-square&logo=greensock&logoColor=white)
-
-[**Repo →**](https://github.com/vinnu112p/portfolio)
+[**Live Demo ↗**](https://goal-flows.vercel.app) &nbsp;•&nbsp; [**Repo ↗**](https://github.com/vinnu112p/GoalFlow)
 
 </td>
-<td width="50%" valign="top">
+<td width="33.3%" valign="top">
 
-### 🧠 AlgoPush
-**DSA practice tool**
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23ffffff" width="18" height="18" align="center"/> AlgoPush
+**DSA Practice Engine**
 
-Built around my own problem-solving routine.
+Problem-solving tracker and workflow tool designed around competitive programming routines and disciplined spaced repetition.
 
-- Keeps practice work organized
-- Made to save me time
+- Organized problem logs
+- Custom practice routine
 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-[**Repo →**](https://github.com/vinnu112p/AlgoPush)
+[**Live Demo ↗**](https://algopush.vercel.app/) &nbsp;•&nbsp; [**Repo ↗**](https://github.com/vinnu112p/AlgoPush)
 
 </td>
 </tr>
@@ -116,74 +110,62 @@ Built around my own problem-solving routine.
 
 <div align="center">
 
-[![All repositories](https://img.shields.io/badge/Browse_all_repositories-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinnu112p?tab=repositories)
+[![All repositories](https://img.shields.io/badge/Browse_all_repositories-0d1117?style=for-the-badge&logo=github&logoColor=white&borderColor=30363d)](https://github.com/vinnu112p?tab=repositories)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:3a3a3a,100:000000&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%"/>
 
 <h2 align="center">[ 03 ] &nbsp;TECH STACK</h2>
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+<!-- Languages -->
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=white)
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white)
+<!-- Frontend -->
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- Backend & Cloud -->
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=servicenow&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<!-- Tools -->
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-0d1117?style=for-the-badge&logo=servicenow&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:3a3a3a,100:000000&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%"/>
 
-<h2 align="center">[ 04 ] &nbsp;ACHIEVEMENTS</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="25%"><h3>🏆</h3><b>Code Breakerz 2026</b><br/><sub>University-level coding competition winner</sub></td>
-<td align="center" width="25%"><h3>🏆</h3><b>Infinity Coderz 2025</b><br/><sub>University-level coding competition winner</sub></td>
-<td align="center" width="25%"><h3>🎓</h3><b>NPTEL · Top 1%</b><br/><sub>National ranking</sub></td>
-<td align="center" width="25%"><h3>☁️</h3><b>ServiceNow</b><br/><sub>CSA + CAD certified</sub></td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:3a3a3a,100:000000&height=2" width="100%"/>
-
-<h2 align="center">[ 05 ] &nbsp;PROBLEM SOLVING</h2>
+<h2 align="center">[ 04 ] &nbsp;PROBLEM SOLVING</h2>
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vinayakpatel)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/patelvinnu112)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/patelvinnu_112)
-[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vinayakp001)
-[![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/patelvinnu.112)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=white&borderColor=30363d)](https://leetcode.com/u/vinayakpatel)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=white&borderColor=30363d)](https://www.geeksforgeeks.org/user/patelvinnu112)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=white&borderColor=30363d)](https://www.hackerrank.com/profile/patelvinnu_112)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=white&borderColor=30363d)](https://www.codechef.com/users/vinayakp001)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:3a3a3a,100:000000&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%"/>
 
-<h2 align="center">[ 06 ] &nbsp;GITHUB STATS</h2>
+<h2 align="center">[ 05 ] &nbsp;GITHUB STATS</h2>
 
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="6">
@@ -204,9 +186,9 @@ Built around my own problem-solving routine.
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:3a3a3a,100:000000&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%"/>
 
-<h2 align="center">[ 07 ] &nbsp;CONTRIBUTIONS</h2>
+<h2 align="center">[ 06 ] &nbsp;CONTRIBUTIONS</h2>
 
 <div align="center">
 
@@ -218,7 +200,7 @@ Built around my own problem-solving routine.
 
 <br/><br/>
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinnu112p&hide_border=true&area=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&title_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinnu112p&theme=high-contrast&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -230,8 +212,8 @@ Built around my own problem-solving routine.
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vinnu112p&color=111111&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=vinnu112p&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161616,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
