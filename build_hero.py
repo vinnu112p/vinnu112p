@@ -33,7 +33,7 @@ ROWS = [
     ("kv", "Name", "Vinayak Patel"),
     ("kv", "Role", "Student · Full Stack Developer"),
     ("kv", "College", "Parul University, Vadodara"),
-    ("kv", "Degree", "B.Tech CSE · Batch 2027"),
+    ("kv", "Degree", "B.Tech CSE · 4th Year"),
     ("kv", "Focus", "Premium UI · Web animation"),
     ("gap",),
     ("sec", "Stack"),

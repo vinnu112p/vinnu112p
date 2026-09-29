@@ -16,7 +16,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=E6EDF3&center=true&vCenter=true&width=700&lines=Java+%26+Python+%2B+Full+Stack+JavaScript;Third-year+CSE+student+%40+Parul+University;Crafting+web+interfaces+that+feel+alive;Competitive+programmer+%7C+Frontend+craftsman;Open+to+internships+%26+collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=E6EDF3&center=true&vCenter=true&width=700&lines=4th-year+CSE+student+%40+Parul+University;Crafting+web+interfaces+that+feel+alive;Competitive+programmer+%7C+Frontend+craftsman;Open+to+internships+%26+collaboration" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -56,7 +56,7 @@
 <tr>
 <td width="33.3%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:briefcase.svg?color=%23ffffff" width="18" height="18" align="center"/> NexHR
+### <img src="https://api.iconify.design/lucide:briefcase.svg?color=%23ffffff" width="18" height="18" align="top"/>&nbsp; NexHR
 **Enterprise HR Platform**
 
 Unified workflow platform consolidating employee lifecycle, multi-role dashboards, attendance, and leave management.
@@ -68,12 +68,15 @@ Unified workflow platform consolidating employee lifecycle, multi-role dashboard
 ![Node](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
 
-[**Live Demo ↗**](https://nexhr-platform.vercel.app/) &nbsp;•&nbsp; [**Repo ↗**](https://github.com/vinnu112p/NexHR)
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logoColor=white)](https://nexhr-platform.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/vinnu112p/NexHR)
 
 </td>
 <td width="33.3%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:target.svg?color=%23ffffff" width="18" height="18" align="center"/> GoalFlow
+### <img src="https://api.iconify.design/lucide:target.svg?color=%23ffffff" width="18" height="18" align="top"/>&nbsp; GoalFlow
 **Role-Based Goal Tracker**
 
 Granular goal management system with isolated dashboards and permissions tailored for Admins, Managers, and Members.
@@ -85,12 +88,15 @@ Granular goal management system with isolated dashboards and permissions tailore
 ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-[**Live Demo ↗**](https://goal-flows.vercel.app) &nbsp;•&nbsp; [**Repo ↗**](https://github.com/vinnu112p/GoalFlow)
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logoColor=white)](https://goal-flows.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/vinnu112p/GoalFlow)
 
 </td>
 <td width="33.3%" valign="top">
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23ffffff" width="18" height="18" align="center"/> AlgoPush
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23ffffff" width="18" height="18" align="top"/>&nbsp; AlgoPush
 **DSA Practice Engine**
 
 Problem-solving tracker and workflow tool designed around competitive programming routines and disciplined spaced repetition.
@@ -102,7 +108,10 @@ Problem-solving tracker and workflow tool designed around competitive programmin
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-[**Live Demo ↗**](https://algopush.vercel.app/) &nbsp;•&nbsp; [**Repo ↗**](https://github.com/vinnu112p/AlgoPush)
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logoColor=white)](https://algopush.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/vinnu112p/AlgoPush)
 
 </td>
 </tr>
@@ -197,10 +206,6 @@ Problem-solving tracker and workflow tool designed around competitive programmin
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinnu112p/vinnu112p/output/github-contribution-grid-pacman.svg" />
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vinnu112p/vinnu112p/output/github-contribution-grid-pacman-dark.svg" />
 </picture>
-
-<br/><br/>
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinnu112p&theme=high-contrast&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
